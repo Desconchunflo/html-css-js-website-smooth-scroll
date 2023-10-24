@@ -1,2 +1,4 @@
 #!/bin/bash
-sudo apt install -y apache2
+# Actualizar el sistema
+sudo apt update
+sudo apt upgrade -y
